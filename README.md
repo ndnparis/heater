@@ -1,2 +1,3 @@
 # Heater
-For my own training
+<====== From https://github.com/mongoose-os-apps/aws-iot-heater ======>
+<========= Temporary use for my own training =========================>
