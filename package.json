@@ -1,0 +1,13 @@
+﻿{
+  "name": "test",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "ejs": "latest",
+    "express": "latest",
+    "body-parser": "latest"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
